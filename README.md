@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1997long
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @dragon.long
+- 👀 I’m interested in China
+- 🌱 I’m currently learning city
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1369012398@qq.com
 
